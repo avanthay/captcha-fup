@@ -1,0 +1,8 @@
+{
+    "require": {
+        "dapphp/securimage": "^3.6"
+    },
+    "autoload": {
+        "psr-4": {"Dave\\": "src/"}
+    }
+}
